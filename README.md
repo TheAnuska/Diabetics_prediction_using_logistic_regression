@@ -35,6 +35,6 @@ Number of rows and columns after cleaning:
 
 
 
-[](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/df_describe.png)
+![](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/df_describe.png)
 
 
