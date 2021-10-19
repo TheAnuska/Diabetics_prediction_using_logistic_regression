@@ -1,4 +1,4 @@
-## [Project 2: Diabetics prediction using logistic regression] (https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/tree/master)
+## [Project 2: Diabetics prediction using logistic regression](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/tree/master)
 # predicting whether the person is having diabetics or not
 
 Project overview:
