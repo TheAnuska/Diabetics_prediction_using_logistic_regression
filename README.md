@@ -40,12 +40,15 @@ Using the cleaning techniques, I reduced the number of rows from 768 to 350. One
 
 
 ![](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/df_describe.png)
+
 Figure 1. Statistical description of the dataset.
 
 ![](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/Pregnancies_vs_Glucose.png)
+
 Figure 2. Relation between "Pregnancies" and "Glucose". The blue colour indicates a person without diabetes, and the orange means a person with diabetes.
 
 ![](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/Remove_outliers.png)
+
 Figure 3. (A) Box plot of Glucose, including Outcome=1 (person with diabetes). (B) Box plot of Glucose, including Outcome=0 (a person without diabetes).
 
 
