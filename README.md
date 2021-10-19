@@ -3,12 +3,19 @@
 Predicting whether the person is having diabetics or not. 
 
 # Project overview:
+
+This project was mainly to use Logistic Regression (LR) method and to play with the numbers. Using the LR method, I could predict with 70% accuracy if the new random patient will have diabetics. 
+
+To dive into the dataset, I used a range of techniques such as statistical description (Figure 1), scatter plot with grouping (Figure 2), box plot to investigate any outliers (Figure 3).
+
+Steps: 
 1. Create a tool that cood help to predict the diabetic dessies
 2. Data source https://www.kaggle.com/kandij/diabetes-dataset.
 3. Pre-processing data.
 4. Feature investigation.
 5. Visualization data.
 6. Model prediction. 
+To see all steps in details I recomand to see the Jupiter notebook - Diabetics prediction using logistic regression.ipynb
 
 
 # FEATURES INFORMATION
@@ -21,21 +28,6 @@ Predicting whether the person is having diabetics or not.
 * DiabetesPedigreeFunction: Diabetes pedigree function
 * Age: Age (years)
 * Outcome: Class variable (0 or 1)
-
-
-RESULTS: 
-
-1. Cleaninge data.
-
-Figure 1 presents the first insights into the dataset - statistical description. 
-
-Using the cleaning techniques, I reduced the number of rows from 768 to 350. One of the techniques was to exclude the values from the outliers based on the box plot. 
-
-2. Modeling and Evaluation.
-
-
-
-3. Final message.
 
 
 
