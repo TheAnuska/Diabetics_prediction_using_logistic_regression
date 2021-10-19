@@ -20,3 +20,21 @@ Predicting whether the person is having diabetics or not.
 * Outcome: Class variable (0 or 1)
 
 
+Data understaning and Data preparation: 
+
+1. Cleaninge data.
+Number of rows and columns before cleaning: 
+(768, 9)
+Number of rows and columns after cleaning: 
+(350, 9)
+
+2. Modeling and Evaluation.
+
+
+3. Final message.
+
+
+
+[](https://github.com/TheAnuska/Diabetics_prediction_using_logistic_regression/blob/master/figures/df_describe.png)
+
+
